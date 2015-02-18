@@ -8,3 +8,5 @@ Fierce - fierce punch (also called HP)<br />
 Short - weak kick (also called LK)<br />
 Forward - medium kick (also called MK)<br />
 Roundhouse (RH) - fierce kick (also called HK)<br />
+
+To use it: Tools -> extensions -> Developer mode -> load unpacked extension.
