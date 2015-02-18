@@ -1,0 +1,12 @@
+{
+  "name": "Six Button Notation",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Replaces jab/strong/fierce notation with LP/MP/HP",
+  "content_scripts": [
+    {
+      "matches": ["*://*.shoryuken.com/*"],
+      "js": ["jquery.min.js", "replace.js"]
+    }
+  ]
+}
