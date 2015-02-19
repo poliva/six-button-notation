@@ -9,4 +9,4 @@ Short - weak kick (also called LK)<br />
 Forward - medium kick (also called MK)<br />
 Roundhouse (RH) - fierce kick (also called HK)<br />
 
-To use it: Tools -> extensions -> Developer mode -> load unpacked extension.
+To use it: Tools -> extensions -> Developer mode -> load unpacked extension, or [install it from the chrome web store](https://chrome.google.com/webstore/detail/six-button-notation/fgidjbnfkhgfhbekgphengkckhhchbon).
